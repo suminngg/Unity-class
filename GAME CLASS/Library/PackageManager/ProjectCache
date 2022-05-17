@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637882933660814737
-    m_Hash: 866264065
+      ticks: 637883837829975018
+    m_Hash: 2794708207
   m_LockFileStatus:
     m_FilePath: C:/Users/user/Documents/GitHub/Unity-class/GAME CLASS/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637882933905477703
-    m_Hash: 3728459630
+      ticks: 637883837829984983
+    m_Hash: 2765529628
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
